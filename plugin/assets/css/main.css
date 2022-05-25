@@ -1,0 +1,55 @@
+.carts {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: space-evenly;
+      -ms-flex-pack: space-evenly;
+          justify-content: space-evenly;
+  padding: 20px;
+}
+
+.cart {
+  width: 150px;
+  height: 150px;
+  margin: 50px auto;
+  padding: 5px;
+}
+
+.cart1 {
+  background-color: #FBEAFF;
+}
+
+.cart2 {
+  background-color: #00C9A7;
+}
+
+.cart7 {
+  background-color: #A0E7E5;
+}
+
+.cart5 {
+  background-color: #167D7F;
+}
+
+.cart6 {
+  background-color: #E8B4B8;
+}
+
+.cart3 {
+  background-color: #A49393;
+}
+
+.cart8 {
+  background-color: #FAE8E0;
+}
+
+.cart4 {
+  background-color: #B4F8C8;
+}
+
+.buttons-group {
+  margin-bottom: 50px;
+}
+/*# sourceMappingURL=main.css.map */
