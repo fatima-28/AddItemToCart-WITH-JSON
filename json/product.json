@@ -1,9 +1,8 @@
 {
     "id":1,
-    "image":"bag.jpeg",
-    "name":"channel",
-    "price":"250.99",
+    "image":"https://fiorello.qodeinteractive.com/wp-content/uploads/2018/04/shop-12-img.jpg",
+    "name":"MAJESTY PALM",
+    "price":"250$",
     "quantity":1
-
 
 }
